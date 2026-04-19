@@ -14,7 +14,9 @@
 
 如：     http://183.10.180.191:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
 
-换成：   http://worker域名/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+换成：   https://tv3366.xyz/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+
+tv3366.xyz[换成自己域名]
 
 
 即：http://worker域名=所有任意IP+端口
